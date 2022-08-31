@@ -1,5 +1,7 @@
 This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
 
+Check out the demo here: http://twitterclone.plasmic.site/
+
 ## Getting Started
 
 First, run the development server:
